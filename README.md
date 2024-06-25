@@ -11,3 +11,6 @@ Insights from the customer churn analysis:
 These insights empowered stakeholders to make data-driven decisions, reducing customer churn and boosting retention rate by 40%. 
 
 Explore the live dashboard here: [Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=151f8f47-2698-4a65-b2a6-fee07234bab9&autoAuth=true&ctid=79dfce10-d463-4784-ac20-be56c4bd619d).
+
+
+![image](https://github.com/iamkaranchadha/Customer-churn-analysis-/assets/129174071/25b93731-fbf9-4937-8f43-9afe7c973a68)
